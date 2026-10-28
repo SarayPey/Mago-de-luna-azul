@@ -1,1 +1,1 @@
-# Mago-de-luna-azul
+# Mago de luna azul

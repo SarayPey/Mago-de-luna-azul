@@ -1,4 +1,5 @@
-define adamBlue    = Character('MoonMage!Adam', color = '#063bce')
+default colorAdamBlue = '#063bce'
+define adamBlue    = Character('MoonMage!Adam', who_color = '[colorAdamBlue]')
 define daminiBlue  = Character('MoonMage!Damini', color = '#a50000')
 define melissaBlue = Character('MoonMage!Melissa', color = '#54159c')
 define michaelBlue = Character('MoonMage!Michael', color = '#32bbf1')
